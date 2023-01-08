@@ -47,9 +47,6 @@ export default siteConfig({
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
   pageUrlOverrides: null,
-  pageUrlAdditions: {
-    '/frontendfromscratch': '61a71cb6049a402d9eb4bf13860c081d'
-  },
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
   // navigationStyle: 'default'
